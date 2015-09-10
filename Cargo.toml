@@ -1,0 +1,10 @@
+[package]
+name = "chipmunk_tests"
+version = "0.1.0"
+authors = ["Aleksander Usov <aleksander.usov@gmail.com>"]
+
+[dependencies.chipmunk]
+path = "../chipmunk"
+
+[dependencies]
+piston_window = "*"
